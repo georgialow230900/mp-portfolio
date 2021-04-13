@@ -110,7 +110,7 @@ font-family: 'Noto Serif', serif;
 ------------------------- */
 
 .featured-background {
-  background-color: #42295b;
+  background-color: #61a2ea;
 }
 
 .display-4 {
@@ -176,17 +176,17 @@ font-family: 'Noto Serif', serif;
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color:#61a2ea ;
 font-family: 'Noto Serif', serif;
 }
 
 #mainNav .navbar-brand {
-  color: #d61f31;
+  color:  #61a2ea;
   font-family: 'Noto Serif', serif;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #d61f31;
+  color: #61a2ea;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -194,12 +194,12 @@ font-family: 'Noto Serif', serif;
   font-weight: bold;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: #d61f31;
+  color: #61a2ea;
 font-family: 'Noto Serif', serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #d61f31;
+  color: #61a2ea;
 }
 
 @media (min-width: 992px) {
