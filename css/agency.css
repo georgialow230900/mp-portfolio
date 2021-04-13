@@ -230,7 +230,7 @@ font-family: 'Noto Serif', serif;
 
 header.masthead {
   text-align: center;
-  color: #d61f31;
+  color: #61a2ea;
   background-image: url("https://source.unsplash.com/gM8igOIP5MA");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -677,25 +677,25 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #d61f31;
+  color: #61a2ea;
 font-family: 'Noto Serif', serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
-  color: #d61f31;
+  color: #61a2ea;
 font-family: 'Noto Serif', serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
-  color: #d61f31;
+  color: #61a2ea;
 font-family: 'Noto Serif', serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
-  color: #d61f31;
+  color: #61a2ea;
 font-family: 'Noto Serif', serif;
 }
 
@@ -737,5 +737,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #d61f31;
+  background-color: #61a2ea;
 }
