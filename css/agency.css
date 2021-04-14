@@ -671,31 +671,31 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #61a2ea;
   box-shadow: none;
 }
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #f8f9fa;
+  color: #61a2ea;
 font-family: 'Cabin', sans-serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
-  color: #f8f9fa;
+  color: #61a2ea;
 font-family: 'Cabin', sans-serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
-  color: #f8f9fa;
+  color: #61a2ea;
 font-family: 'Cabin', sans-serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
-  color: #f8f9fa;
+  color: #61a2ea;
 font-family: 'Cabin', sans-serif;
 }
 
