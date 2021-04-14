@@ -99,7 +99,7 @@ font-family: 'Cabin', sans-serif;
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
   background-color: #fec810 !important;
   border-color: #fec810 !important;
-  color: #d61f31;
+  color: #61a2ea;
 }
 
 .btn-primary:active, .btn-primary:focus {
@@ -500,7 +500,7 @@ font-family: 'Cabin', sans-serif;
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #61a2ea;
 }
 
 .timeline > li .timeline-image h4 {
@@ -643,7 +643,7 @@ font-family: 'Cabin', sans-serif;
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: #61a2ea;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
