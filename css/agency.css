@@ -6,7 +6,7 @@
 
 body {
   overflow-x: hidden;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 p {
@@ -32,7 +32,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 .page-section {
@@ -51,7 +51,7 @@ font-family: 'Noto Serif', serif;
   font-style: normal;
   margin-bottom: 75px;
   text-transform: none;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -83,7 +83,7 @@ img::-moz-selection {
 }
 
 .btn {
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 .btn-xl {
@@ -177,12 +177,12 @@ font-family: 'Noto Serif', serif;
   color: white;
   border: 0;
   background-color:#f8f9fa ;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 #mainNav .navbar-brand {
   color:  #f8f9fa;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -195,7 +195,7 @@ font-family: 'Noto Serif', serif;
   padding: 0.75em 0;
   letter-spacing: 1px;
   color: #f8f9fa;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -248,7 +248,7 @@ header.masthead .intro-text .intro-lead-in {
   font-style: normal;
   line-height: 22px;
   margin-bottom: 25px;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 header.masthead .intro-text .intro-heading {
@@ -256,7 +256,7 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -269,14 +269,14 @@ font-family: 'Noto Serif', serif;
     font-style: italic;
     line-height: 40px;
     margin-bottom: 25px;
-    font-family: 'Noto Serif', serif;
+    font-family: 'Cabin', sans-serif;
   }
   header.masthead .intro-text .intro-heading {
     font-size: 75px;
     font-weight: 700;
     line-height: 75px;
     margin-bottom: 50px;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
   }
 }
 
@@ -348,7 +348,7 @@ font-family: 'Noto Serif', serif;
   font-size: 16px;
   font-style: italic;
   margin: 0;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 #portfolio * {
@@ -384,7 +384,7 @@ font-family: 'Noto Serif', serif;
   font-size: 16px;
   font-style: italic;
   margin: 20px 0 30px;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
@@ -678,25 +678,25 @@ section#contact .form-control:focus {
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
   color: #f8f9fa;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
   color: #f8f9fa;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
   color: #f8f9fa;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
   color: #f8f9fa;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 .footer {
@@ -708,7 +708,7 @@ font-family: 'Noto Serif', serif;
   font-size: 90%;
   line-height: 40px;
   text-transform: none;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 .footer ul.quicklinks {
@@ -716,7 +716,7 @@ font-family: 'Noto Serif', serif;
   line-height: 40px;
   margin-bottom: 0;
   text-transform: none;
-font-family: 'Noto Serif', serif;
+font-family: 'Cabin', sans-serif;
 }
 
 ul.social-buttons {
