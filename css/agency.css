@@ -14,11 +14,11 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #61a2ea;
 }
 
 a:hover {
-  color: #fec503;
+  color: #61a2ea;
 }
 
 .text-primary {
@@ -733,7 +733,7 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #61a2ea;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
